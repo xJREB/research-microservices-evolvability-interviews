@@ -25,6 +25,7 @@ This repository contains all publicly available artifacts related to a qualitati
 * [Interview Preamble](interview-preamble.md)
 * [Interview Guide](interview-guide.md)
 * [Interview Artifacts](interview-artifacts.pptx)
+* [Coding System and Frequencies](coding-label-frequencies.xlsx)
 * [Case Characterization Matrix](case-characterization-matrix.xlsx)
 * [Individual Case Descriptions](case-descriptions/README.md)
 
